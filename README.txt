@@ -10,4 +10,4 @@ functions: a folder containing all functions.
 
 examples: a folder containing all the example spectra. 
 
-
+[![DOI](https://zenodo.org/badge/173169370.svg)](https://zenodo.org/badge/latestdoi/173169370)
